@@ -1,2 +1,3 @@
-# TFG-SemanticSegmentation
-Advanced Semantic Segmentation using Deep Learning
+# Advanced Semantic Segmentation using Deep Learning
+Final Project of Mathematics and Computer Science
+
